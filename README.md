@@ -1,4 +1,4 @@
-Link : <a href="https://yusup-maulana.github.io" target="_blank">yusup-maulana.github.io</a>
+Link : <a href="" target="_blank"></a>
 <br/><br/>
 <h3>Bahan - bahan</h3>
 <ul>
