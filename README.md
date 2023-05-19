@@ -1,5 +1,4 @@
-Link :https://hedi-suryadi.github.io/hedisuryadi.github.io/  a href="" target="_blank"><
-<br/><br/>
+Link : 
 <h3>Bahan - bahan</h3>
 <ul>
 <li>HTML</li>
